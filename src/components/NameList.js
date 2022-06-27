@@ -1,5 +1,5 @@
 import React from 'react'
-import Person from './Person'
+import Persons from './Person'
 
 function NameList() {
   const names = ['Bruce', 'Clark', 'Diana', 'Bruce']
